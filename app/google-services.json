@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "815407430198",
+    "firebase_url": "https://real-estate-tut-default-rtdb.firebaseio.com",
+    "project_id": "real-estate-tut",
+    "storage_bucket": "real-estate-tut.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:815407430198:android:4c74082c493a189829f697",
+        "android_client_info": {
+          "package_name": "com.example.realestate"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "815407430198-j3gh5eo0cr946jbuh5qj08i8f1u3frq8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.realestate",
+            "certificate_hash": "284336efa7f3333d99b1fce884e878ac0562da87"
+          }
+        },
+        {
+          "client_id": "815407430198-me4ghgugs2fbg4930rsnlroqo0cu6sqf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQpl9CrJ5FUH5FVrqiFs2DEk1KDaaQhbo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "815407430198-me4ghgugs2fbg4930rsnlroqo0cu6sqf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

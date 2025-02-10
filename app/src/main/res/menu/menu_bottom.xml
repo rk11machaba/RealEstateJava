@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/item_home"
+        android:title="@string/home_btn"
+        android:icon="@drawable/home_black"/>
+
+    <item android:id="@+id/item_chats"
+        android:title="@string/chats_btn"
+        android:icon="@drawable/chat_black"/>
+
+    <item android:id="@+id/item_fav"
+        android:title="@string/favarites_btn"
+        android:icon="@drawable/black_fav"/>
+
+    <item android:id="@+id/item_profile"
+        android:title="@string/profile_btn"
+        android:icon="@drawable/black_profile"/>
+</menu>
