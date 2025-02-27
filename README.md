@@ -31,4 +31,4 @@ Contributions are welcome! Please fork the repository and create a pull request 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ## Contact
-For any inquiries or support, please contact Machaba Kaizer at [machabarotshidzwakaizer@gmail.com].
+For any inquiries or support, please contact Machaba Kaizer at machabarotshidzwakaizer@gmail.com
